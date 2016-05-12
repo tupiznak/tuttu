@@ -1,0 +1,13 @@
+{
+	"messInfo": {
+		"date": "2016-05-07",
+		"time": "04:16:28",
+		"username": "lalala",
+		"databasename": "gugugu",
+		"host": "127.0.0.1(22)"
+	},
+	"messLog": {
+		"type": "duration",
+		"action": "31447.883 ms statement: select count(1) from schemaname.tablename;"
+	}
+}
